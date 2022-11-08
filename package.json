@@ -1,0 +1,24 @@
+{
+  "name": "selenium-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyenphuong13th/Selenium-tutorial.git"
+  },
+  "author": "HoangPhuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyenphuong13th/Selenium-tutorial/issues"
+  },
+  "homepage": "https://github.com/nguyenphuong13th/Selenium-tutorial#readme",
+  "dependencies": {
+    "chromedriver": "^107.0.3",
+    "geckodriver": "^3.2.0",
+    "selenium-webdriver": "^4.6.0"
+  }
+}
